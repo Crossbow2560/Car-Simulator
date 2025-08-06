@@ -10,7 +10,7 @@ The arduino acts as the main brain for the simulator, It takes the inputs from a
 
 Basically how the controller input works is that when the python script is run, the computer detects a virtual controlled connected to it. Whenever the arduino sends the data, the python program converts it into controller data and hence the game detects it.
 
-## Step by step breakdown of the project
+## Breakdown of the project
 The Simulator has a total of 7 controls.
 - Accelerator
 - Brake
